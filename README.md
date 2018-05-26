@@ -1,0 +1,1 @@
+# irodai_automatizacio
