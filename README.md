@@ -19,7 +19,7 @@ Azoknak akik már trendelkezenk python előismerettel az első 4 előadás (Pyth
 12. GUI Automatizáció
 
 ## Óramenet
-Minden óra két szakaszból áll, az elméleti rész és gyakorlati rész. Az elmélei rész során elsajátítjuk az adott témakör legfontosabb tudnivalóit, majd egy programelkészítés során ültetjük át a tanultakat a gyakorlatba. A feladatok úgy lettek összeállítva, hogy az irodai előforduló feladatok elvégzésére legyenek alakalmasak, pl.: adatok keresése webes felületeken és excel táblázatba rendezése (webscraping). Minden órához tartoznak gyakorló kérdések és házi feladatok, amik otthon elvégezhetőek és kérdések felmerülése esetén megbeszélhetőek.
+Minden óra két szakaszból áll, az elméleti rész és gyakorlati rész. Az elmélei rész során elsajátítjuk az adott témakör legfontosabb tudnivalóit, majd egy program elkészítés során ültetjük át a tanultakat a gyakorlatba. A feladatok úgy lettek összeállítva, hogy az irodában előforduló feladatok elvégzésére legyenek használhatóak, pl.: adatok keresése webes felületeken és excel táblázatba rendezése (webscraping). Minden órához tartoznak gyakorló kérdések és házi feladatok, amik otthon elvégezhetőek és kérdések felmerülése esetén megbeszélhetőek.
 
 ## Ajánlott irodalom
 Az előadások nagyban építenek **Al Sweigart - "Automate the Boring Stuff with Python"**  című könyvére és ennek témáit is dolgozza fel némiképp újragondot formában. A könyv letülhető a github oldalon.
